@@ -3,8 +3,8 @@
 A full-stack financial ledger with real-time weighted scoring and leaderboard.
 
 ## Live Demo
-- **Frontend (Vercel):** [Add your Vercel URL here]
-- **Backend (Render):** [Add your Render URL here]
+- **Frontend (Vercel):** [https://assignement2-five.vercel.app/]
+- **Backend (Render):** [https://transaction-backend-tw1d.onrender.com]
 
 ## Tech Stack
 | Layer | Technology |
